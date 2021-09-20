@@ -1,0 +1,15 @@
+{
+  "name": "observe",
+  "version": "1.0.0",
+  "description": "A libaray implements of Observer",
+  "main": "index.js",
+  "author": "CodeWen",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build":"rollup --config"
+  },
+  "devDependencies": {
+    "rollup": "^2.56.3"
+  }
+}
